@@ -1,4 +1,4 @@
-# Portfolio Website
+# Personal Website
 
 ## Developer's Name
 - Victor Maina
