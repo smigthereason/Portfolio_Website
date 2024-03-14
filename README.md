@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 3. Open `index.html` in your web browser to view the project.
 
 ## Live Link
-- [Live Demo](https://smigthereason.github.io/Portfolio_Website/) - (To be added)
+- [Live Demo](https://smigthereason.github.io/Portfolio_Website/)
 
 ## Technologies Used
 - HTML
