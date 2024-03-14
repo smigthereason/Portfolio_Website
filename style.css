@@ -270,7 +270,8 @@ section {
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-top: 5%;
+  margin-left: 65px;
   /* padding-left: 80px; */
 }
 
@@ -298,7 +299,7 @@ section {
 }
 
 .details-container {
-  padding: 1.5rem;
+  padding: 0.1rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
@@ -434,9 +435,12 @@ footer {
 footer p {
   text-align: center;
 }
-
+.text-container {
+  margin: -2px;
+  padding: 0;
+}
 .text-container p {
   color: rgb(85, 85, 85);
-  padding-left: 20px;
+  padding-left: 65px;
   margin-bottom: 23PX;
 }
