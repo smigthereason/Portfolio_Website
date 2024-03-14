@@ -25,4 +25,4 @@ To contribute or work with this project, you need:
 ## Copyright and License Information
 This project is licensed under the [MIT License](LICENSE).
 
-© [Year] Victor Maina
+© 2024 Victor Maina
