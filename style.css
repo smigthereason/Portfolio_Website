@@ -284,7 +284,9 @@ section {
 .about-details-container {
   display: flex;
 }
-
+.about-details-container p {
+  padding-top: 0;
+}
 .about-pic {
   border-radius: 2rem;
 }
@@ -435,5 +437,6 @@ footer p {
 
 .text-container p {
   color: rgb(85, 85, 85);
-  padding-left: 80px;
+  padding-left: 20px;
+  margin-bottom: 23PX;
 }
